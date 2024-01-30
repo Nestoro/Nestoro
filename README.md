@@ -33,14 +33,14 @@ You can play Tetris [here](https://nestoro.de/tetris "Tetris")
     <a href="https://reactnative.dev"><img src="https://cdn.iconscout.com/icon/free/png-256/react-1-282599.png" alt="react-native" width="40" height="40"/>
     <a href="https://angular.io"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png" alt="angular" width="40" height="40"/>
     <a href="https://www.electronjs.org"><img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Electron_Software_Framework_Logo.svg" alt="electron" width="40" height="40"/>
-    <a href="https://nodejs.org"><img src="https://bachasoftware.com/wp-content/uploads/elementor/thumbs/nodejslogo-ovfzvrnm7u9pk6tpkts9r094e1d1uh7si7evpflqpc.png" alt="node" width="40" height="40"/>
+    <a href="https://nodejs.org"><img src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" alt="node" width="40" height="40"/>
     <a href="https://expressjs.com"><img src="https://i2.wp.com/www.mementotech.in/assets/images/icons/express.png" alt="expressjs" width="40" height="40"/>
     <a href="https://nestjs.com"><img src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" alt="nestjs" width="40" height="40"/>
     <!-- web / db -->
     <a href="https://www.python.org"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/>
     <a href="https://www.php.net"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" alt="php" width="40" height="40"/>
     <a href="https://br.wordpress.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1200px-WordPress_blue_logo.svg.png" alt="wordpress" width="40" height="40"/>
-    <a href="https://www.docker.com/"><img src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png" alt="docker" width="40" height="40"/>
+    <a href="https://www.docker.com/"><img src="https://www.docker.com/wp-content/uploads/2024/01/icon-docker-square.svg" alt="docker" width="40" height="40"/>
     <a href="https://graphql.org"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1200px-GraphQL_Logo.svg.png" alt="graphql" width="40" height="40"/>
     <a href="https://www.mongodb.com"><img src="https://dyltqmyl993wv.cloudfront.net/assets/stacks/mongodb/img/mongodb-stack-220x234.png" alt="mongoDB" width="40" height="40"/>
     <a href="https://www.mysql.com"><img src="https://upload.wikimedia.org/wikipedia/de/d/dd/MySQL_logo.svg" alt="mySQL" width="40" height="40"/>
@@ -52,7 +52,7 @@ You can play Tetris [here](https://nestoro.de/tetris "Tetris")
     <a href="https://code.visualstudio.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="40" height="40"/>
     <a href="https://visualstudio.microsoft.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/2060px-Visual_Studio_Icon_2019.svg.png" alt="visualstudio" width="40" height="40"/>
     <a href="https://developer.android.com/studio"><img src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png" alt="androidstudio" width="40" height="40"/>
-    <a href="https://developer.apple.com/xcode"><img src="https://upload.wikimedia.org/wikipedia/en/0/0c/Xcode_icon.png" alt="xcode" width="40" height="40"/>
+    <a href="https://developer.apple.com/xcode"><img src="https://developer.apple.com/assets/elements/icons/xcode-12/xcode-12-96x96_2x.png" alt="xcode" width="40" height="40"/>
     <a href="https://git-scm.com"><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git" width="40" height="40"/>
     <a href="https://gitlab.com"><img src="https://avatars.githubusercontent.com/u/1086321?s=280&v=4" alt="gitlab" width="40" height="40"/>
 </p>
