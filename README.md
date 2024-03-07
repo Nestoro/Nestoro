@@ -18,7 +18,7 @@ You can play Tetris [here](https://nestoro.de/tetris "Tetris")
 
 ### 🔥 Skillz
 
-<p align="center">
+<div align="center">
     <!-- languages -->
     <a href="https://www.learn-c.org"><img src="https://upload.wikimedia.org/wikipedia/commons/3/35/The_C_Programming_Language_logo.svg" alt="c" width="40" height="40"/>
     <a href="https://www.cplusplus.com"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="c++" width="40" height="40"/>
@@ -55,4 +55,11 @@ You can play Tetris [here](https://nestoro.de/tetris "Tetris")
     <a href="https://developer.apple.com/xcode"><img src="https://developer.apple.com/assets/elements/icons/xcode-12/xcode-12-96x96_2x.png" alt="xcode" width="40" height="40"/>
     <a href="https://git-scm.com"><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git" width="40" height="40"/>
     <a href="https://gitlab.com"><img src="https://avatars.githubusercontent.com/u/1086321?s=280&v=4" alt="gitlab" width="40" height="40"/>
-</p>
+</div>
+        
+<br />
+    
+<div align="center">
+    <img height=200  src="https://github-readme-streak-stats.herokuapp.com/?user=Nestoro&theme=vue-dark&hide_border=true" /> 
+    <img height=200  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nestoro&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
+</div>
