@@ -19,7 +19,7 @@ You can play Tetris [here](https://nestoro.de/tetris "Tetris")
     
 <div align="center" justify="flexStart">
     <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Nestoro&theme=vue-dark&hide_border=true&card_height=170" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nestoro&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&card_height=170" />
+    <img height="165" src="./profile/stats.svg" />
 </div>
 
 <br />
