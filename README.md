@@ -46,7 +46,7 @@ You can play Tetris [here](https://nestoro.de/tetris "Tetris")
     <!-- js -->
     <a href="https://reactjs.org"><img src="https://cdn.iconscout.com/icon/free/png-256/react-1-282599.png" alt="react" width="40" height="40"/></a>
     <a href="https://reactnative.dev"><img src="https://cdn.iconscout.com/icon/free/png-256/react-1-282599.png" alt="react-native" width="40" height="40"/></a>
-    <a href="https://angular.io"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png" alt="angular" width="40" height="40"/></a>
+    <a href="https://angular.io"><img src="https://cdn.iconscout.com/icon/free/png-512/free-angular-icon-svg-download-png-226070.png" alt="angular" width="40" height="40"/></a>
     <a href="https://www.electronjs.org"><img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Electron_Software_Framework_Logo.svg" alt="electron" width="40" height="40"/></a>
     <a href="https://nodejs.org"><img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="node" width="40" height="40"/></a>
     <a href="https://expressjs.com"><img src="https://i2.wp.com/www.mementotech.in/assets/images/icons/express.png" alt="expressjs" width="40" height="40"/></a>
